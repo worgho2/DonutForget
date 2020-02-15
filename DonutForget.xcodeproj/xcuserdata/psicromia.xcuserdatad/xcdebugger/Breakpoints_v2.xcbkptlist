@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7318295B-9293-4BD3-A82C-7DD13EA3B575"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02C75359-9915-417E-BF86-A5CA754756A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "02C75359-9915-417E-BF86-A5CA754756A0 - 49fd15545b9394a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DonutForget.ContentView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "02C75359-9915-417E-BF86-A5CA754756A0 - be71eb9e301d7951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.tag&lt;A where A1: Swift.Hashable&gt;(A1) -&gt; some&gt;&gt;.0)&gt; in DonutForget.ContentView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EEB446E-D2A0-4AEB-8E40-7AC61C635CC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/SectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D3ACB2B-24DC-45EF-B4F6-D40F711332D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A338A592-7D19-4B09-98BB-813FBE01E07B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/SectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A338A592-7D19-4B09-98BB-813FBE01E07B - 6dd19bcd65b65d52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DonutForget.SectionView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/SectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "A338A592-7D19-4B09-98BB-813FBE01E07B - 1c6dd3a9ccea1d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in DonutForget.SectionView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/SectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53B9A5ED-EA8D-4CD6-A303-E804F18E76BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/RowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "53B9A5ED-EA8D-4CD6-A303-E804F18E76BB - ae388e5bfee20058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DonutForget.RowView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/RowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "53B9A5ED-EA8D-4CD6-A303-E804F18E76BB - ecec6649f15756b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, DonutForget.TaskEditingView&gt;, SwiftUI.Spacer)&gt; in DonutForget.RowView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/RowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9260A480-0DA8-4948-9BA7-85ED61928876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A5F187-669F-4D57-962D-399722F77CF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/SectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D2A5F187-669F-4D57-962D-399722F77CF9 - 1c6dd3a9ccea1d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in DonutForget.SectionView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/SectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "D2A5F187-669F-4D57-962D-399722F77CF9 - 569d8201cad20a2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; DonutForget.RowView in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in DonutForget.SectionView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/SectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94A1CBED-6D83-4C7E-94B4-5600CDFD56A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "94A1CBED-6D83-4C7E-94B4-5600CDFD56A2 - 9259a261511503f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;, SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in DonutForget.ListView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "94A1CBED-6D83-4C7E-94B4-5600CDFD56A2 - 1d9a53dd783a2721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; DonutForget.SectionView in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;, SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in DonutForget.ListView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65B82C6E-03E0-4CC6-8665-D06308B083DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "65B82C6E-03E0-4CC6-8665-D06308B083DA - 9259a261511503f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;, SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in DonutForget.ListView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "65B82C6E-03E0-4CC6-8665-D06308B083DA - 453365e2f6e21920"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Int) -&gt; DonutForget.SectionView in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;, SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;Swift.Array&lt;DonutForget.PrioritizedTasks&gt;&gt;, Foundation.UUID, DonutForget.SectionView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in DonutForget.ListView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/ListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48D88630-1887-4BB2-BC9E-4674AC6AFC56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADB3EAA5-B98E-40E5-9836-D84497557FAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C77D6AE-8D74-4D8B-BC0E-525672AC9C28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/SectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57064C82-4892-421C-AD97-2662C947F120"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Views/RowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "57064C82-4892-421C-AD97-2662C947F120 - ecec6649f15756b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, DonutForget.TaskEditingView&gt;, SwiftUI.Spacer)&gt; in DonutForget.RowView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/RowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "57064C82-4892-421C-AD97-2662C947F120 - a007e131b29ddbf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;SwiftUI.Text, DonutForget.TaskEditingView&gt;, SwiftUI.Spacer)&gt; in DonutForget.RowView.body.getter : some"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Views/RowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59BF4A4C-F06A-41B9-9803-F476E85D0170"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Models/Task.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED18952B-1DDC-4A6A-9426-AAA2EECA2DF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Models/PrioritizedTasks.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "init(priority:names:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB2E812A-EC3E-42AF-A4CA-B3F273C1C4E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Models/TaskStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "042883B2-31A3-41FD-98DF-B485E24B893F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/ForEach.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(_:content:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06E4C774-5648-42A0-989A-5551E940CC84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/ForEach.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(_:content:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06E4C774-5648-42A0-989A-5551E940CC84 - 2300c328e6aaa1b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in DonutForget):SwiftUI.ForEach&lt; where C: SwiftUI.View&gt;.init&lt;A where A == DonutForget.IndexedCollection&lt;A1&gt;, B == A1.Element.ID, A1: Swift.RandomAccessCollection, A1.Element: Swift.Identifiable&gt;(_: A1, content: (A1.Index) -&gt; C) -&gt; SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;A1&gt;, B, C&gt;"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Extensions/ForEach.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "06E4C774-5648-42A0-989A-5551E940CC84 - 6714631286ef99f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (A1.Index, A1.Element) -&gt; C in (extension in DonutForget):SwiftUI.ForEach&lt; where C: SwiftUI.View&gt;.init&lt;A where A == DonutForget.IndexedCollection&lt;A1&gt;, B == A1.Element.ID, A1: Swift.RandomAccessCollection, A1.Element: Swift.Identifiable&gt;(_: A1, content: (A1.Index) -&gt; C) -&gt; SwiftUI.ForEach&lt;DonutForget.IndexedCollection&lt;A1&gt;, B, C&gt;"
+                  moduleName = "DonutForget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psicromia/Dropbox%20(DeveloperAcademy-BR)/Apple%20Developer%20Academy/NanoChallenge02/DonutForget/DonutForget/Extensions/ForEach.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894CB4A5-F023-4DA2-A621-1E81C41E3784"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/IndexedCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A457D707-2F88-408E-9F57-770CF0588624"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/IndexedCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "index(_:offsetBy:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5A50F6E-7B9D-42DD-94C9-D12E020FBB37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/IndexedCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "index(before:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB05FC71-4761-4BF3-890E-D811707C83CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/IndexedCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "index(after:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5378C24-454A-450B-B8AF-67512A63D047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DonutForget/Extensions/Binding.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
